@@ -7,7 +7,7 @@
 ```javascript
 const marbs = {
   code: [JavaScript, HTML, CSS, TypeScript, Java],
-  tools: [Bootstrap, Tailwind, Sass, React],
+  tools: [Bootstrap, Tailwind, Sass, React]
 }
 ```
 ---
