@@ -1,7 +1,18 @@
-<h1 align="center">Hi 👋, I'm Marvin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maaaaarvin&label=Profile%20views&color=0e75b6&style=flat" alt="maaaaarvin" /> </p>
+<h2> Hi, I'm Marvin Fabricante! <img src="https://media.giphy.com/media/jsHVvDpDMCwbyLuYM0/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+<p><em>I am currently studying Computer Science at <a href="https://www.sti.edu/">STI College</a><img src="https://media.giphy.com/media/dUqyQDi9Dg2bPDlO6L/giphy.gif" width="30">
+</em></p>
 
-- 🌱 I’m currently learning **Php**
+
+```javascript
+const marbs = {
+  code: [JavaScript, HTML, CSS, PHP, Java],
+  tools: [React, Next, Redux, Node],
+}
+```
+---
+
+- 🌱 I’m currently learning **React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
