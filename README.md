@@ -1,6 +1,6 @@
 <h2> Hi, I'm Marvin Fabricante! <img src="https://media.giphy.com/media/jsHVvDpDMCwbyLuYM0/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
-<p><em>I am currently studying BS in Computer Science at <a href="https://www.sti.edu/">STI College</a><img src="https://media.giphy.com/media/dUqyQDi9Dg2bPDlO6L/giphy.gif" width="30">
+<p><em>I am currently studying BS in Computer Science at <a href="https://www.sti.edu/programs-details.asp?procode=2">STI College</a><img src="https://media.giphy.com/media/dUqyQDi9Dg2bPDlO6L/giphy.gif" width="30">
 </em></p>
 
 
